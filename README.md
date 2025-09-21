@@ -2,9 +2,6 @@
 <p align="center">
   <b>This project is now OFFICIALLY accepted for:</b>
 </p>
-<p align="center">
-  <img src="public/assets/gssoc-banner.png" alt="GSSoC Banner" />
-</p>
 
 ![GSSoC Logo](https://github.com/Roshansuthar1105/Omex/blob/main/Frontend/public/gssoc%20logo.png)
 
