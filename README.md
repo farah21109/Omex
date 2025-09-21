@@ -2,6 +2,9 @@
 <p align="center">
   <b>This project is now OFFICIALLY accepted for:</b>
 </p>
+<p align="center">
+  <img src="public/assets/gssoc-banner.png" alt="GSSoC Banner" />
+</p>
 
 ![GSSoC Logo](https://github.com/Roshansuthar1105/Omex/blob/main/Frontend/public/gssoc%20logo.png)
 
@@ -307,5 +310,6 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 **Ready to show off your coding achievements? Get started with Omex today! 🚀**
+
 
 
